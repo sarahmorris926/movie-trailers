@@ -1,0 +1,21 @@
+{
+  "name": "movie-trailers",
+  "version": "1.0.0",
+  "description": "An app used to find all movie trailers for your local theater's \"now playing\" movies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahmorris926/movie-trailers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahmorris926/movie-trailers/issues"
+  },
+  "homepage": "https://github.com/sarahmorris926/movie-trailers#readme"
+}
